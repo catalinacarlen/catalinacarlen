@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hola 👋
 
-<!--
-**catalinacarlen/catalinacarlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Catalina**, estudiante de Ciberseguridad en la Universidad de
+Palermo (Buenos Aires), con foco en **Blue Team** y **SOC**.
 
-Here are some ideas to get you started:
+#### Actualmente aprendiendo
+- Análisis de logs y detección de amenazas
+- SIEM (Wazuh)
+- Linux hardening y fundamentos de red
+- Python y C aplicados a seguridad defensiva
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Stack
+`Python` · `C` · `Bash` · `Kali Linux` · `Wazuh` · `TryHackMe`
+
+🇦🇷 → 🇪🇸 · Relocating back to Barcelona.
+
+📫 [LinkedIn](https://linkedin.com/in/catalinacarlen)
