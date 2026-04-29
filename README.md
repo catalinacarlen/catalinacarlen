@@ -7,12 +7,6 @@
 
 ---
 
-#### Formación complementaria
-
-- **TryHackMe** — SOC Level 1 path · Top 30% global · 16 rooms · 5 badges
-- **Universidad de Palermo** — fundamentos de ciberseguridad, plataformas de TI,
-  administración de datos, programación (Python), redes y comunicaciones (en curso)
-
 #### Stack y herramientas
 
 `Linux` · `Python` · `SQL` · `Bash` · `Git` · `Wireshark`
