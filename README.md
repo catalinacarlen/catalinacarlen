@@ -24,7 +24,7 @@
 
 Cybersecurity student at Universidad de Palermo (Buenos Aires), focused on Blue Team and SOC operations.
 
-Building toward a junior SOC analyst role - working through hands-on labs, writing scripts, and documenting everything rather than waiting to have "enough" credentials first.
+Building toward a junior SOC analyst role - working through hands-on labs, writing scripts, and documenting everything.
 
 - 🔭 Currently working through the **TryHackMe SOC Level 1** path
 - 🌱 Learning **log analysis, threat detection, and SIEM fundamentals**
