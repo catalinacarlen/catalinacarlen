@@ -20,4 +20,4 @@ Español (nativo) · English (C1) · Català (intermedio)
 🇦🇷 Buenos Aires · Relocation a Barcelona 🇪🇸 (2027)
 Disponibilidad: full-time, remoto / híbrido
 
-📫 [LinkedIn](https://linkedin.com/in/catalinacarlen) · [TryHackMe](https://tryhackme.com/p/catalinacarlen) · catalinacarlen@icloud.com
+📫 [LinkedIn](https://linkedin.com/in/carlencatalina) · [TryHackMe](https://tryhackme.com/p/catalinacarlen) · catalinacarlen@icloud.com
