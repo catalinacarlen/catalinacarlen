@@ -64,15 +64,14 @@ Building toward a junior SOC analyst role — working through hands-on labs, wri
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=catalinacarlen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinacarlen&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</div>
+## GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=catalinacarlen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=catalinacarlen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
 </div>
 
 ---
