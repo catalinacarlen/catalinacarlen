@@ -22,13 +22,14 @@
 
 ## About Me
 
-Cybersecurity student at Universidad de Palermo (Buenos Aires), focused on Blue Team and SOC operations.
+Cybersecurity student at Universidad de Palermo (Buenos Aires), focused on **Blue Team** and **SOC operations**.
 
-Building toward a junior SOC analyst role - working through hands-on labs, writing scripts, and documenting everything.
+Building toward a junior SOC analyst role — working through hands-on labs, writing scripts, and documenting everything I learn.
 
 - 🔭 Currently working through the **TryHackMe SOC Level 1** path
-- 🌱 Learning **log analysis, threat detection, and SIEM fundamentals**
+- 🌱 Learning **log analysis, threat detection, SIEM fundamentals, Splunk & Elastic Stack**
 - 🎯 Goal: first junior SOC analyst role or internship
+- 🌍 Fluent in English, Spanish and Catalan
 - 📫 **carlencatalina@icloud.com**
 
 ---
@@ -40,22 +41,26 @@ Building toward a junior SOC analyst role - working through hands-on labs, writi
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 **Currently Learning**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticstack&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-004742?style=flat&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)
 
 ---
 
 ## Projects
 
-| Project | Description |
-|---|---|
-| **thm-writeups** | Notes and analysis from TryHackMe rooms - SOC Level 1 path. *(coming soon)* |
-| **python-security-tools** | Python scripts for log analysis and security automation. *(coming soon)* |
-| **blue-team-notes** | Study notes on threat detection, incident response, and SOC fundamentals. *(coming soon)* |
+| Project | Description | Stack |
+|---|---|---|
+| **[python-security-toolkit](https://github.com/catalinacarlen/python-security-toolkit)** | Security-focused CLI tools built in pure Python (stdlib only), each with its own docs and tests | Python |
+| **[organizador-archivos](https://github.com/catalinacarlen/organizador-archivos)** | Automated file organizer by extension, name and category | Python |
+| **[fund-ciberseguridad-suite](https://github.com/catalinacarlen/fund-ciberseguridad-suite)** | Study notes — Cybersecurity Fundamentals | JavaScript |
+| **[comunicaciones-suite](https://github.com/catalinacarlen/comunicaciones-suite)** | Study notes — Network & Communications | HTML |
 
 ---
 
@@ -71,3 +76,7 @@ Building toward a junior SOC analyst role - working through hands-on labs, writi
 </div>
 
 ---
+
+<div align="center">
+  <sub>Always learning. Always documenting. Always blue. 💙</sub>
+</div>
