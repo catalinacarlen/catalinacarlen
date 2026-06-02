@@ -60,7 +60,7 @@ Building toward a junior SOC analyst role — working through hands-on labs, wri
 | **[python-security-toolkit](https://github.com/catalinacarlen/python-security-toolkit)** | Security-focused CLI tools built in pure Python (stdlib only), each with its own docs and tests | Python |
 | **[organizador-archivos](https://github.com/catalinacarlen/organizador-archivos)** | Automated file organizer by extension, name and category | Python |
 | **[fund-ciberseguridad-suite](https://github.com/catalinacarlen/fund-ciberseguridad-suite)** | Study notes — Cybersecurity Fundamentals | JavaScript |
-| **[splunk-spl-cheatset]([https://github.com/catalinacarlen/comunicaciones-suite](https://github.com/catalinacarlen/splunk-spl-cheatset))** | A practical, no-fluff reference for Splunk Search Processing Language (SPL) - Built as a study aid. | Splunk |
+| **[splunk-spl-cheatset]((https://github.com/catalinacarlen/splunk-spl-cheatset))** | A practical, no-fluff reference for Splunk Search Processing Language (SPL) - Built as a study aid. | Splunk |
 
 ---
 
