@@ -38,6 +38,7 @@ Cybersecurity student at Universidad de Palermo (Buenos Aires), focused on **Blu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Currently learning**
 
@@ -54,9 +55,7 @@ Cybersecurity student at Universidad de Palermo (Buenos Aires), focused on **Blu
 | Project | Description | Stack |
 |---|---|---|
 | **[python-security-toolkit](https://github.com/catalinacarlen/python-security-toolkit)** | Five security CLI tools in pure Python (stdlib only), each with its own docs and tests, behind a single `pstk` command | Python |
-| **[mis-diagramas](https://github.com/catalinacarlen/mis-diagramas)** | A LucidChart-style diagram editor in a single HTML file: no install, no server, data stays local | JavaScript |
-| **[fund-ciberseguridad-suite](https://github.com/catalinacarlen/fund-ciberseguridad-suite)** | Interactive study suite for Cybersecurity Fundamentals (diagrams, flashcards, quizzes) | JavaScript |
-| **[comunicaciones-suite](https://github.com/catalinacarlen/comunicaciones-suite)** | Eleven self-contained study apps for the Networks and Communications course | HTML |
+| **[mis-diagramas](https://github.com/catalinacarlen/mis-diagramas)** | A LucidChart-style diagram editor in a single HTML file: no install, no server, data stays local. Imports SQL schemas to ERD and exports ERD back to `CREATE TABLE` | JavaScript |
 | **[linux-forensics-commands](https://github.com/catalinacarlen/linux-forensics-commands)** | DFIR command reference for Linux: what to collect, in what order, with a triage script | Shell |
 | **[splunk-spl-cheatset](https://github.com/catalinacarlen/splunk-spl-cheatset)** | SPL cheatsheet for threat hunting, with MITRE ATT&CK-mapped detections | Markdown |
 | **[organizador-archivos](https://github.com/catalinacarlen/organizador-archivos)** | File organizer by extension, name and category, with configurable rules | Python |
@@ -71,6 +70,15 @@ Where I'm putting my time right now:
 - **SIEM:** writing searches and detections in Splunk (SPL), mapped to MITRE ATT&CK
 - **DFIR on Linux:** volatile-first collection, triage and timelines
 - **Automation:** small Python tools to take the repetitive work out of the way
+
+---
+
+## Academic Foundations
+
+Coursework at Universidad de Palermo, with hands-on study projects I built for each:
+
+- **Networks & Communications:** OSI and TCP/IP models, topologies, circuit vs packet switching, flow and error control (sliding window, ARQ), LAN access (ALOHA, CSMA, Ethernet, wireless) and network hardware by OSI layer. → [comunicaciones-suite](https://github.com/catalinacarlen/comunicaciones-suite)
+- **Cybersecurity Fundamentals:** NIST CSF, ISO 27001 (ISMS), risk management with MAGERIT, defensive tooling, incident management and IR planning (CSIRT), and business continuity (ISO 22301). → [fund-ciberseguridad-suite](https://github.com/catalinacarlen/fund-ciberseguridad-suite)
 
 ---
 
