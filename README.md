@@ -5,7 +5,6 @@
   <p><strong>Cybersecurity Student · Blue Team & SOC · Buenos Aires 🇦🇷</strong></p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=catalinacarlen&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
     <a href="https://linkedin.com/in/carlencatalina" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -22,28 +21,25 @@
 
 ## About Me
 
-Cybersecurity student at Universidad de Palermo (Buenos Aires), focused on **Blue Team** and **SOC operations**.
+Cybersecurity student at Universidad de Palermo (Buenos Aires), focused on **Blue Team** and **SOC operations**. I work through hands-on labs, write small tools, and document everything as I go, which is most of what you'll find in these repos.
 
-Building toward a junior SOC analyst role — working through hands-on labs, writing scripts, and documenting everything I learn.
-
-- 🔭 Currently working through the **TryHackMe SOC Level 1** path
-- 🌱 Learning **log analysis, threat detection, SIEM fundamentals, Splunk & Elastic Stack**
-- 🎯 Goal: first junior SOC analyst role or internship
-- 🌍 Fluent in English, Spanish and Catalan
-- 📫 **carlencatalina@icloud.com**
+- Working through the **TryHackMe SOC Level 1** path
+- Learning log analysis, threat detection, SIEM fundamentals, Splunk and Elastic Stack
+- Looking for a first junior SOC analyst role or internship
+- I speak English, Spanish and Catalan
 
 ---
 
 ## Skills
 
-**Proficient**
+**Comfortable with**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-**Currently Learning**
+**Currently learning**
 
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=flat&logo=elasticstack&logoColor=white)
@@ -57,25 +53,27 @@ Building toward a junior SOC analyst role — working through hands-on labs, wri
 
 | Project | Description | Stack |
 |---|---|---|
-| **[python-security-toolkit](https://github.com/catalinacarlen/python-security-toolkit)** | Security-focused CLI tools built in pure Python (stdlib only), each with its own docs and tests | Python |
-| **[organizador-archivos](https://github.com/catalinacarlen/organizador-archivos)** | Automated file organizer by extension, name and category | Python |
-| **[fund-ciberseguridad-suite](https://github.com/catalinacarlen/fund-ciberseguridad-suite)** | Study notes — Cybersecurity Fundamentals | JavaScript |
-| **[comunicaciones-suite](https://github.com/catalinacarlen/comunicaciones-suite)** | Study notes — Network & Communications | HTML |
+| **[python-security-toolkit](https://github.com/catalinacarlen/python-security-toolkit)** | Five security CLI tools in pure Python (stdlib only), each with its own docs and tests, behind a single `pstk` command | Python |
+| **[mis-diagramas](https://github.com/catalinacarlen/mis-diagramas)** | A LucidChart-style diagram editor in a single HTML file: no install, no server, data stays local | JavaScript |
+| **[fund-ciberseguridad-suite](https://github.com/catalinacarlen/fund-ciberseguridad-suite)** | Interactive study suite for Cybersecurity Fundamentals (diagrams, flashcards, quizzes) | JavaScript |
+| **[comunicaciones-suite](https://github.com/catalinacarlen/comunicaciones-suite)** | Eleven self-contained study apps for the Networks and Communications course | HTML |
+| **[linux-forensics-commands](https://github.com/catalinacarlen/linux-forensics-commands)** | DFIR command reference for Linux: what to collect, in what order, with a triage script | Shell |
+| **[splunk-spl-cheatset](https://github.com/catalinacarlen/splunk-spl-cheatset)** | SPL cheatsheet for threat hunting, with MITRE ATT&CK-mapped detections | Markdown |
+| **[organizador-archivos](https://github.com/catalinacarlen/organizador-archivos)** | File organizer by extension, name and category, with configurable rules | Python |
 
 ---
 
-## GitHub Activity
+## Focus Areas
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=catalinacarlen&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+Where I'm putting my time right now:
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=catalinacarlen&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub trophies" />
-</div>
+- **Log analysis and detection:** reading auth, system and web logs to spot brute force, password spraying and anomalies
+- **SIEM:** writing searches and detections in Splunk (SPL), mapped to MITRE ATT&CK
+- **DFIR on Linux:** volatile-first collection, triage and timelines
+- **Automation:** small Python tools to take the repetitive work out of the way
 
 ---
 
 <div align="center">
-  <sub>Always learning. Always documenting. Always blue. 💙</sub>
+  <sub>Always learning, always documenting. Blue team by choice.</sub>
 </div>
