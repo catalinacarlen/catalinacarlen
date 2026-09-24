@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/catalinacarlen/catalinacarlen/main/Texto.png" alt="banner" width="100%" />
 
   <h1>Catalina Carlen</h1>
-  <p><strong>Cybersecurity Student · Blue Team & SOC · Buenos Aires 🇦🇷</strong></p>
+  <p><strong>Cybersecurity Student · Buenos Aires 🇦🇷</strong></p>
 
   <p>
     <a href="https://linkedin.com/in/carlencatalina" target="_blank">
